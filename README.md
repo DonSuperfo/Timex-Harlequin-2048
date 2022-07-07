@@ -3,7 +3,7 @@ This is a Timex Computer 2048 Clone base on Harlequin by Chris Smith (http://www
 PCB is the same size as original ZX Spectrum, can be fit in 48K or 48K+ case.
 
 - PCB current version is 1B, 
-- 16K ROM and RAM
+- 16K ROM and 48K RAM
 - Support Timex Hi-Color Mode
 - AY-3-8910 sound chip with ZX Spectrum 128 Port
 - Kempston Joystick port
