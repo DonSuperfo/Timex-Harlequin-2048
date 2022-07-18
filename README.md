@@ -9,3 +9,6 @@ PCB is the same size as original ZX Spectrum, can be fit in 48K or 48K+ case.
 - Kempston Joystick port
 - Composite and RGB PAL output
 ![Board](https://github.com/DonSuperfo/Timex-Harlequin-2048/blob/main/TH2048%20Issue%201B.jpg)
+If you want to get PCB, you can get it from PCBWay through this link:
+
+  <a href="https://www.pcbway.com/project/shareproject/Timex_Harlequin_2048_c8c12529.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
