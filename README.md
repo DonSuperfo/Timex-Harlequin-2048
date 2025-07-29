@@ -4,7 +4,7 @@ PCB is the same size as original ZX Spectrum, can be fit in 48K or 48K+ case.
 
 - PCB current version is 1B, 
 - 16K ROM and 48K RAM
-- Support Timex Hi-Color Mode
+- Support Timex Hi-Color/Hi-Res Mode
 - AY-3-8910 sound chip with ZX Spectrum 128 Port
 - Kempston Joystick port
 - Composite and RGB PAL output
